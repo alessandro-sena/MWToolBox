@@ -1,0 +1,43 @@
+            <h1>Tweet Labeling</h1>
+
+            <p>In this task, read the following tweet and label it as: Question, Not a Question and Invalid.</p>
+
+            </p>To help you label the tweet correctly you can use this instructions:</p>
+
+            <h2>Question:</h2> If the tweet is a question <b>with the expectation of getting an answer</b> from his/her followers.
+            <p><b>Examples:</b></p>
+            <ul>
+                <li><b>Rhetorical:</b> How can I love and respect someone who doesn't love and respect herself?</li>
+                <li><b>Factual Knowledge:</b> In the UK when you need to see a specialist do you need special forms or permission?</li>
+                <li><b>Poll:</b> Who watched Harry Potter last night?</li>
+                <li><b>Opinion:</b> How do you feel about interracial datign? You feel it's ok to date outside your date?</li>
+                <li><b>Recommendations:</b> Any suggestion from a new smartphone? Samsung? Apple?</li>
+                <li><b>Inivitation:</b> I really want to go to a  Georgetown bball game. Anyone down to go with me?</li>
+                <li><b>Favor:</b> I am with out a ride to the school this morning can anyone please drive me?</li>
+                <li><b>Offer:</b> I just bought 10 pounds of potatoes. Would anyone like some free potatoes?</li>
+                <li><b>Social Connection:</b> Recruiting 4 #internship (#Rome #Milan) for my team. Whould you reference any new graduate for this role?</li> 
+            </ul>
+
+            <h2>Not a Question:</h2> If the tweet is just a statement and you don't see the need for an answer.
+            <p><b>Examples:</b></p>
+            <ul>
+            <li>No matter what, we have faith, hope and love. Lets not let our differences change that, but loving each other as we were loved first.</li>
+            <li>Michael :What side of the bed you sleep on? Rob : whole bed</li>
+            <li>Never in the history of med economics has anyone ever been so bored</li>
+            </ul>
+
+
+
+
+            <h2>Invalid:</h2> Any <b>non-english tweet</b> or one that have any offense language. 
+
+            <p><b>Examples:</b></p>
+            <ul>
+            <li>"saudades" "awwn de mim?" "não, da pessoa que vc era quando eu te conheci"</li>
+            <li>Sabe quien lo va a volver a tratar bonito? Su Madre .l.</li>
+            <li>一護くん･･････どうして、ここに？　帰らなくていいの？</li>
+            </ul>
+
+            <p>If you aren't sure if is a Question, label the tweet as "Not a Question". Please don't try to guess!</p>
+
+            <p>Thank you!</p>

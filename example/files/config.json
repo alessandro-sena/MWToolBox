@@ -1,0 +1,15 @@
+{
+    "fields":
+        [{
+            "name": "Tweet label",
+            "type": "m",  
+            "choices": "Question,Not a Question,Invalid Tweet"
+        }],
+    "params":
+    {
+        "redundancy":"3",
+        "workflow":"'s'",
+        "payment":"0.1",
+        "skills":"[\"twitter_music\"]"
+    }
+}
